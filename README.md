@@ -1,6 +1,6 @@
 # Hi, I'm Swetha VS! 👋
 
-### Aspiring Data Analyst | Python | SQL | Excel | Power BI | Powerbi | Tableau
+### Aspiring Data Analyst | Python | SQL | Excel | Power BI | Tableau
 
 ## 👩‍💻 About Me
 I'm a Computer Science Engineering graduate passionate about Data Analytics, data visualization and transforming raw data into meaningful business insights.
